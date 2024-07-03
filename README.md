@@ -1,0 +1,1 @@
+This is a calculator to calculate your BMI by typing in your weight in Kilogrammes and height in Centimeters. After it prints out your results, it will ask if you would like to reset the calculator to type in a new measurement so that you can calculate the BMI for multiple people without having the rerun the code!
